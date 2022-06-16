@@ -1,0 +1,3 @@
+Bundle-Name: my-collection-provider
+Bundle-SymbolicName: com.test.collection.providers
+Bundle-Version: 1.0.0
